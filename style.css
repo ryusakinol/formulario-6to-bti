@@ -1,0 +1,36 @@
+  body { 
+       background-color: navajowhite;
+
+  }
+
+  h1 { 
+      color: rgb(169, 5, 54);
+
+  }
+  h1:hover { 
+    color: rgb(5, 60, 169);
+
+}
+  aside { 
+    display: block;
+    background-color: rgb(165, 159, 159);
+    width: 400px ;
+    height: 200px ;
+    display: inline-block;
+    position: relative;
+    float: right;
+  }
+
+input {
+  margin: 10px;
+}
+
+
+.contenido {
+
+  float: right;
+  position: relative;
+  margin-top: 200px;
+  margin-left: 200px;
+
+}
